@@ -7,8 +7,8 @@ SIMAS (Student Academic Monitoring Information System) is a desktop-based applic
 
 # Nama Kelompok
 1. Melvina Zahra Salsabilla (24050974006)
-2. Miftahun Nikmah (24050974026
-3. Early Dwika Prayitno (24050974027
+2. Miftahun Nikmah (24050974026)
+3. Early Dwika Prayitno (24050974027)
 
 ---
 
